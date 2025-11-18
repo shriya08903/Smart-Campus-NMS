@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Core Router",
+        "ip": "192.168.1.1",
+        "vendor": "Cisco",
+        "status": "up"
+    },
+    {
+        "id": 2,
+        "name": "Edge Switch",
+        "ip": "192.168.1.2",
+        "vendor": "Juniper",
+        "status": "up"
+    },
+    {
+        "id": 3,
+        "name": "WiFi Controller",
+        "ip": "192.168.1.3",
+        "vendor": "Aruba",
+        "status": "down"
+    }
+]
